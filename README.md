@@ -156,3 +156,5 @@ Open an issue, send a PR, or just star the repo ⭐
 ---
 
 *Made with solder fumes and stubbornness.*
+
+*My other project* - [SAP-1](https://github.com/mUmarSaga/Ben_eater_sap_1)
