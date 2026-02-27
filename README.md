@@ -12,11 +12,10 @@
 
 ## 📸 Photos
 
-<!-- Add your photos below — replace the placeholder paths with your actual image files -->
 
-| The Board | Close-Up | Running |
-|:---------:|:--------:|:-------:|
-| ![Full board](photos/Snapshot.png)
+
+
+![Full board](photos/Snapshot.png)
 
 
 
