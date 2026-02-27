@@ -16,7 +16,8 @@
 
 | The Board | Close-Up | Running |
 |:---------:|:--------:|:-------:|
-| ![Full board](photos/Snapshot.jpg) | ![Close-up](photos/closeup.jpg) | ![Running](photos/running.jpg) |
+| ![Full board](photos/Snapshot.png)
+
 
 
 
