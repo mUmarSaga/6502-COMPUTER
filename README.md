@@ -18,7 +18,7 @@
 |:---------:|:--------:|:-------:|
 | ![Full board](photos/Snapshot.jpg) | ![Close-up](photos/closeup.jpg) | ![Running](photos/running.jpg) |
 
-> 📁 *Put your photos in a `/photos` folder and update the paths above.*
+
 
 ---
 
@@ -66,11 +66,8 @@
 <!-- Add your schematic images below -->
 
 ### Full Schematic
-![Full Schematic](schematics/schematic_full.png)
+![Full Schematic](Schematics/Schematics.png)
 
-
-> 📁 *Put your schematic images in a `/schematics` folder and update the paths above.*  
-> 💡 *KiCad, Fritzing, or hand-drawn scans all work great here.*
 
 ---
 
