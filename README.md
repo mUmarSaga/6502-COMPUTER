@@ -16,7 +16,7 @@
 
 | The Board | Close-Up | Running |
 |:---------:|:--------:|:-------:|
-| ![Full board](photos/full_board.jpg) | ![Close-up](photos/closeup.jpg) | ![Running](photos/running.jpg) |
+| ![Full board](photos/Snapshop.jpg) | ![Close-up](photos/closeup.jpg) | ![Running](photos/running.jpg) |
 
 > 📁 *Put your photos in a `/photos` folder and update the paths above.*
 
