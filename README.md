@@ -66,7 +66,7 @@
 <!-- Add your schematic images below -->
 
 ### Full Schematic
-![Full Schematic](Schematics/Schematics.png)
+![Full Schematic](Schematics/Schematics.jpg)
 
 
 ---
